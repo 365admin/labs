@@ -1,6 +1,6 @@
 # Azure AD Connect
 
-
+[ ] Change DNS to match DCs
 
 ## 1 - Join to domain
 
