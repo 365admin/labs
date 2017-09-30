@@ -25,3 +25,6 @@ choco install rsat
 ![](2017-09-30-15-42-01.png)
 ![](2017-09-30-15-44-23.png)
 ![](2017-09-30-15-51-18.png)
+(https://technet.microsoft.com/en-us/library/dd379481(v=ws.10).aspx)
+
+Enable-ADOptionalFeature –Identity ‘CN=Recycle Bin Feature,CN=Optional Features,CN=Directory Service,CN=Windows NT,CN=Services,CN=Configuration,DC=contoso,DC=com’ –Scope ForestOrConfigurationSet –Target ‘contoso.com’
