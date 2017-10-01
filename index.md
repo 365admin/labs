@@ -19,3 +19,4 @@ Everything is preconfigured and comes in a nice box
 Like to explore Office 365, test specific scenarios
 ![](2017-10-01-13-28-38.png)
 
+[Why](./docs/why)
