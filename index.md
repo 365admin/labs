@@ -1,26 +1,8 @@
 ---
-title: Hexatown Documents
+title: Hexatown Labs
+layout: home
 ---
-You won't find anything on this page, try on of thise instead:
 
-- [Office365](./office365)
-- [Exchange](./microsoft/exchange)
+![](2017-10-01-13-28-38.png)
 
-## Latest posts 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
-<div>
-
-</div>
+![](2017-10-01-13-37-04.png)
