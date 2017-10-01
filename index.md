@@ -1,22 +1,30 @@
 ---
-title: Rent an Office365 test lab
+title: Rent an Enterprise Office365 test lab
 layout: home
 ---
-Price starting at DKK 4.999 / week
+Price starting at DKK 2.999 / week
 
-You get 
-- Office 365 test tenant
-- Mac and Windows laptop
-- iPhone and Samsung Android Phone
+You get an Office 365 and Azure test tenant
+ 
+## Preconfigured Devices  
+- Laptop 
+- Phone
 
-Optional
+## Virtual Windows Servers
+- Active Directory server
+- Azure AD Connect
+
+## Optional
+- Android devices
+- Mac
 - Hybrid Environment
+- Local network
 - High End devices
+- Tablets
 
-Everything is preconfigured and comes in a nice box
 
 ## Office365 administrator?
 Like to explore Office 365, test specific scenarios
 ![](2017-10-01-13-28-38.png)
 
-[Why](./docs/why)
+[Setup your own test environment](./docs/why)
