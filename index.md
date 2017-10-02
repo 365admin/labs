@@ -8,7 +8,8 @@ layout: home
 .buy{
   color:white;
   background-color:#E8683D;
-  width:200px;
+
+  width:220px;
   height:150px;
   padding:10px;
   margin:10px;
@@ -21,18 +22,18 @@ layout: home
 
 <div class="buy" >
 <h1>Cloud Nano</h1>
-DKK 1.999 / week
+<h2>DKK 1.999 / week</h2>
 </div> 
 
 <div class="buy" >
 <h1>Cloud Mini</h1>
-DKK 2.999 / week
+<h2>DKK 2.999 / week</h2>
 </div> 
 
 <div class="buy" >
 
-<h1>On prem Mini</h1>
-DKK 7.999 / week
+<h1>Hybrid Mini</h1>
+<h2>DKK 7.999 / week</h2>
 </div> 
 
 <div class="clear"></div>
