@@ -13,6 +13,9 @@ layout: home
   margin:10px;
   float:left;
 }
+  .clear{
+  clear:both;
+  }
 </style>
 
 <div class="buy" >
@@ -31,7 +34,7 @@ DKK 2.999 / week
 DKK 7.999 / week
 </div> 
 
-
+<div class="clear"></div>
 ## Preconfigured Devices  
 - Laptop 
 - Phone
