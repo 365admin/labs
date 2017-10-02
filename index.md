@@ -1,11 +1,37 @@
 ---
-title: Rent an Enterprise Office365 test lab
+title: Rent an Office365 test lab
 layout: home
 ---
-> You get an Office 365 and Azure test tenant
+> Enterprise ready, you get an Office 365 and Azure test tenant
 
-Price starting at DKK 2.999 / week
- 
+<style>
+.buy{
+  background-color:#E8683D;
+  width:33%;
+  height:150px;
+  padding:10px;
+  margin:10px;
+  position: relative;
+}
+</style>
+
+<div class="buy" >
+<h1>Cloud Nano</h1>
+DKK 1.999 / week
+</div> 
+
+<div class="buy" >
+<h1>Cloud Mini</h1>
+DKK 2.999 / week
+</div> 
+
+<div class="buy" >
+
+<h1>On prem Mini</h1>
+DKK 7.999 / week
+</div> 
+
+
 ## Preconfigured Devices  
 - Laptop 
 - Phone
