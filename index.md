@@ -2,10 +2,9 @@
 title: Rent an Office365 test lab
 layout: home
 ---
-> Enterprise ready, you get an Office 365 and Azure test tenant
-
  {% include shop-front.html %}
 
+# You get
 ## Preconfigured Devices  
 - Laptop 
 - Phone
@@ -21,10 +20,3 @@ layout: home
 - Local network
 - High End devices
 - Tablets
-
-<sidebar>
-## Office365 administrator?
-Like to explore Office 365, test specific scenarios
-![](2017-10-01-13-28-38.png)
-</sidebar>
-[Setup your own test environment](./docs/why)
