@@ -4,55 +4,8 @@ layout: home
 ---
 > Enterprise ready, you get an Office 365 and Azure test tenant
 
-<style>
-    .buy {
-        background-color: #E8683D;
-        width: 220px;
-        height: 150px;
-        padding: 10px;
-        margin: 10px;
-        float: left;
-    }
-    
-    h2.buy
-    h1.buy{
-        color: #ffffff ;
+ {% include shop-front.html %}
 
-    }
-
-    .clear {
-        clear: both;
-    }
-</style>
-
-
-
-
-<div class="buy">
-    <a href="cloud/nano">
-        <h1>Cloud Nano</h1>
-        <h2>DKK 1.999 / week</h2>
-    </a>
-</div>
-
-<div class="buy">
-    <a href="cloud/mine">
-
-        <h1>Cloud Mini</h1>
-        <h2>DKK 2.999 / week</h2>
-    </a>
-
-</div>
-
-<div class="buy">
-    <a href="hybrid/low-range">
-
-        <h1>Hybrid Mini</h1>
-        <h2>DKK 7.999 / week</h2>
-    </a>
-</div>
-
-<div class="clear"></div>
 ## Preconfigured Devices  
 - Laptop 
 - Phone
