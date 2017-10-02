@@ -11,7 +11,7 @@ layout: home
   height:150px;
   padding:10px;
   margin:10px;
-  position: relative;
+  float:left;
 }
 </style>
 
