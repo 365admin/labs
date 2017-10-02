@@ -4,6 +4,5 @@ layout: device
 retailDKK: 9999
 model:  MacBook Pro 
 spec: 13 MPXQ2 (space grey)
-image: /tobe
+image: 2017-10-02-19-56-59.png
 ---
-![](2017-10-02-19-56-59.png)

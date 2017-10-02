@@ -4,8 +4,8 @@ layout: device
 retailDKK: 3749
 model:  Samsung Galaxy S7 
 spec: 32GB smartphone - hvid
-image: /tobe
+image: 2017-10-02-19-59-16.png
 ---
 
 
-![](2017-10-02-19-59-16.png)
+

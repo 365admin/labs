@@ -4,8 +4,8 @@ layout: device
 retailDKK: 5799
 model:  Apple iPhone 7
 spec: 128 GB - rød
-image: /tbd
+image: 2017-10-02-19-58-31.png
 ---
 
-![](2017-10-02-19-58-31.png)
+
 

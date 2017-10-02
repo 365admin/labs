@@ -4,8 +4,6 @@ layout: device
 retailDKK: 2549
 model:  Samsung Galaxy Note 8
 spec: smartphone (sort)
-image: /tobe
+image: 2017-10-02-20-08-40.png
 ---
-
-
 
