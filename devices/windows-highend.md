@@ -1,8 +1,7 @@
 --- 
 title: Windows
 layout: device
-spec: High End
-image:
+<!-- image: -->
 retailDKK: 25719
 model:  Surface Book 2-i-1
 spec:  i7 - 1 TB Performance Base
