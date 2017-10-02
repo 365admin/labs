@@ -7,5 +7,5 @@ spec: 12.9" 512 GB WiFi + 4G/LTE (space grey)
 image: /tobe
 ---
 
-
+![](2017-10-02-20-00-38.png)
 

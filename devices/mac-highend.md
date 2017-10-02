@@ -6,3 +6,4 @@ model:  MacBook Pro
 spec: 15 MPTT2 (space grey)
 image: /tobe
 ---
+![](2017-10-02-19-57-43.png)
