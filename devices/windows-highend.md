@@ -1,5 +1,5 @@
 --- 
-title: Windows
+title: Windows - 2017 High End
 layout: device
 retailDKK: 25719
 model:  Surface Book 2-i-1

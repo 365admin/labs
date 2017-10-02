@@ -1,5 +1,5 @@
 --- 
-title: Windows
+title: Windows - 2017 Low End
 layout: device
 retailDKK: 7999
 model:  Lenovo Yoga 720

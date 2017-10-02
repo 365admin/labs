@@ -1,5 +1,5 @@
 --- 
-title: iPhone
+title: iPhone - 2017 Low end
 layout: device
 retailDKK: 2549
 model:  SE
