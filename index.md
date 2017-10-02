@@ -20,22 +20,29 @@ layout: home
   }
 </style>
 
-<div class="buy" >
+
+
+<a href="cloud/nano">
+<div class="buy"  >
 <h1>Cloud Nano</h1>
 <h2>DKK 1.999 / week</h2>
-</div> 
+</div> </a>
 
+<a href="cloud/mine">
 <div class="buy" >
 <h1>Cloud Mini</h1>
 <h2>DKK 2.999 / week</h2>
 </div> 
+</a>
 
+<a href="hybrid/low-range">
 <div class="buy" >
 
 <h1>Hybrid Mini</h1>
 <h2>DKK 7.999 / week</h2>
 </div> 
 
+</a>
 <div class="clear"></div>
 ## Preconfigured Devices  
 - Laptop 
