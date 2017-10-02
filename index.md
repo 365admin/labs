@@ -6,6 +6,7 @@ layout: home
 
 <style>
 .buy{
+  color:white;
   background-color:#E8683D;
   width:200px;
   height:150px;
