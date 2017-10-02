@@ -1,0 +1,16 @@
+--- 
+layout: default 
+---
+
+<article class="page">
+
+    <h1>{{ page.title }}</h1>
+    <h2>{{ page.model}}</h2>
+    <h3>{{ page.spec}}</h3>
+    
+    <div class="entry">
+        {{ content }}
+    </div>
+
+</article>
+ {% include disqus.html %}
