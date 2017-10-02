@@ -7,5 +7,5 @@ spec: 32GB smartphone - hvid
 image: 2017-10-02-19-59-16.png
 ---
 
-
+.
 

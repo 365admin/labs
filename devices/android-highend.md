@@ -7,3 +7,4 @@ spec: smartphone (sort)
 image: 2017-10-02-20-08-40.png
 ---
 
+.
