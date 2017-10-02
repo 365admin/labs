@@ -7,7 +7,7 @@ layout: home
 <style>
 .buy{
   background-color:#E8683D;
-  width:33%;
+  width:200px;
   height:150px;
   padding:10px;
   margin:10px;
