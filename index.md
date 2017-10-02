@@ -6,9 +6,8 @@ layout: home
 
 <style>
 .buy{
-  color:white;
+  color:#ffffff !important; 
   background-color:#E8683D;
-
   width:220px;
   height:150px;
   padding:10px;
