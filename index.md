@@ -4,16 +4,17 @@ layout: home
 ---
  {% include shop-front.html %}
 
-# You get
-## Preconfigured Devices  
+# You need a lab for
+
+## Testing new features
 - Laptop 
 - Phone
 
-## Virtual Windows Servers
+## Convincing your boss
 - Active Directory server
 - Azure AD Connect
 
-## Optional
+## Check out new gear
 - Android devices
 - Mac
 - Hybrid Environment
