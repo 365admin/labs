@@ -85,3 +85,5 @@ exclude:
   - README.md
   - CNAME
 encoding: UTF-8
+
+theme: jekyll-theme-minimal
